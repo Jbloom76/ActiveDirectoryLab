@@ -1,7 +1,8 @@
 <h1>JWipe - Active directory Lab</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this project I create a server for a faux company to exist on, both target and attacking virtual machines, workstation logins for a few users, and then I use crowbar to instigate a brute force attack on the target machine. 
+Afterwards all of the data will be ingested and processed through a splunk virtual machine.
 <br />
 
 
