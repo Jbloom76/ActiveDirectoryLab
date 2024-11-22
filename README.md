@@ -6,10 +6,9 @@ Afterwards all of the data will be ingested and processed through a splunk virtu
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Project Diagram</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+![Diagram](ActiveDirectoryLabDiagram.JPG)
 
 <h2>Environments Used </h2>
 
