@@ -1,4 +1,4 @@
-<h1>JWipe - Active directory Lab</h1>
+<h1>JBloom - Active directory Lab</h1>
 
 <h2>Description</h2>
 In this project I create a server for a faux company to exist on, both target and attacking virtual machines, workstation logins for a few users, and then I use crowbar to instigate a brute force attack on the target machine. Afterwards all of the data will be ingested and processed through a splunk virtual machine. Before I forget I also need to mention here that I followed a guide to set this up. I followed MyDFIR's guide on youtube. Thank you for the fantastic guide!
