@@ -19,7 +19,7 @@ In this project I create a server for a faux company to exist on, both target an
 <h2>Project Walkthrough:</h2>
 
 
-<b>The first thing that needs to be done is to create 4 different virtual machines. This is a very easy and repetitive process so I will post a seperate guide on how to set these machines up at a later date and link back to it here so that I can keep this report as short as possible. the machines we need to set up are as follows: </b>
+<b>The first thing that needs to be done is to create 4 different virtual machines. I have a seperate guide for creating these types of machines [here](https://github.com/Jbloom76/Virtual_Sandbox_Setup) so to keep things a bit shorter Ill skip that step. The machines we need to set up are as follows: </b>
 
  - <b>Windows 10 machine to be the target</b>
  - <b>Windows 10 server to host the target machine on a domain</b>
